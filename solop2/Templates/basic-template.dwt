@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///C|/Users/StormStrikerPro/Desktop/Digital Design Class/my_portfolio/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+	<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+	<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	  <li><a href="#">About</a></li>
+		<li><a href="#">Blog</a></li>
+		<li><a href="#">Gallery</a></li>
+		<li><a href="#">Contact</a></li>
+	  </ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm just a fella tryna make it in this world.</h3>
+	<h3>Join me as we enter some filler text.</h3></aside>
+  <main><!-- TemplateBeginEditable name="main-content" -->
+	<h1>Page Title</h1>
+   
+  </main>
+		<!-- TemplateEndEditable -->
+  <!--End floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
+
+
